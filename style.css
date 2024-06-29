@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.main{
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1599995903128-531fc7fb694b?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+}
+
+.d1{
+    background-image: url(https://plus.unsplash.com/premium_photo-1682974933520-275de4a6f29b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHJlbm92YXRpb258ZW58MHx8MHx8fDA%3D);
+    background-size: cover;
+}
+
+.d2{
+    background-image: url(https://images.unsplash.com/photo-1625577817040-a74f7ad0b520?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHJlbm92YXRpb258ZW58MHx8MHx8fDA%3D);
+    background-size: cover;
+}
+
+.d3{
+    background-image: url(https://images.unsplash.com/photo-1595814431706-6839a6b231be?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHJlbm92YXRpb258ZW58MHx8MHx8fDA%3D);
+    background-size: cover;
+}
+
+.beam{
+    background-image: url(https://www.steelbeamsdirect.com/wp-content/uploads/2019/05/I-Beam-SelfColour-1.jpg);
+    background-size: cover;
+}
+
+.brick{
+    background-image: url(https://housing.com/news/wp-content/uploads/2022/11/An-essential-guide-to-cement-block-prices.jpg);
+    background-size: cover;
+}
+
+.mate{
+    background-image: url(https://static.wixstatic.com/media/478c11_d99527bce3a346c3a9ae1cf23b86fd51~mv2.jpg/v1/fill/w_280,h_280,q_90/478c11_d99527bce3a346c3a9ae1cf23b86fd51~mv2.jpg);
+    background-size: cover;
+}
+
+.timber{
+    background-image: url(https://img1.exportersindia.com/final_catg_image/74692-310.jpg);
+    background-size: cover;
+}
